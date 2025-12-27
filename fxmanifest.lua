@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 "yes"
-author "EngineerVTX"
+author "Lucky"
 description "Playtime Script For ESX n QBCore"
 version "1.0.0"
 
